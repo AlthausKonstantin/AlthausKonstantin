@@ -1,6 +1,6 @@
 Hi, I’m @AlthausKonstantin!  
 I am intested in fast, reliable and beautiful code.  
-Currently, I learn how to build my own website.
+
 
 
 <!---
