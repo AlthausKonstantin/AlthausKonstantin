@@ -1,5 +1,6 @@
 Hi, I’m @AlthausKonstantin!  
-I am intested in fast, reliable and beautiful code.  
+I am intested in fast, reliable and beautiful code!  
+Find my CV [here](https://github.com/AlthausKonstantin/cv).
 
 
 
